@@ -16,7 +16,7 @@ export const dashboard = {
     children: [
         {
             id: 'default',
-            title: 'Dashboard',
+            title: 'Movimientos',
             type: 'item',
             url: '/dashboard/default',
             icon: icons['IconDashboard'],
